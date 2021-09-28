@@ -44,3 +44,17 @@ body{
     top: 15%;  
 
 }
+footer{
+    overflow: auto;
+    background-color: black;
+    min-width: 20vh;
+}
+footer h1{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 40px;
+    margin: 25px;
+
+}
