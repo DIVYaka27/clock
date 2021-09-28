@@ -47,7 +47,7 @@ body{
 footer{
     overflow: auto;
     background-color: black;
-    min-width: 20vh;
+    min-width: 12vh;
 }
 footer h1{
     text-decoration: none;
