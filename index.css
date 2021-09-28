@@ -3,11 +3,11 @@
     padding: 0px;
 }
 body{
-    background-color: grey;
+     background-color: rgb(245, 236, 237);
 }
 #clockcontainer{
     position: relative;
-    background-color: blueviolet;
+   background-color:rgb(159, 247, 247);
     width: 40vw;
     height: 40vw;
     margin: auto;
@@ -54,7 +54,7 @@ footer h1{
     color: white;
     font-weight: bold;
     font-size: 20px;
-    padding: 40px;
-    margin: 25px;
+    padding: 20px;
+    margin: 10px;
 
 }
