@@ -52,6 +52,7 @@ footer{
 footer h1{
     text-decoration: none;
     color: white;
+    text-align : center;
     font-weight: bold;
     font-size: 20px;
     padding: 20px;
